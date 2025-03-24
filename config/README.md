@@ -9,13 +9,6 @@ This tutorial outlines the staff and admin panels of osTicket.<br />
 <p> &emsp; </p>
 
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: osTicket admin panels](https://www.youtube.com)
-<p> &emsp; </p>
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -35,26 +28,32 @@ This tutorial outlines the staff and admin panels of osTicket.<br />
 <img src="https://i.imgur.com/3PLR866.png" height="80%" width="80%" alt="SLAs"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Admin/Agent login url: http://localhost/osTicket/scp/login.php<p></p>
+- End-user url: http://localhost/osTicket<p></p>
+- Configure Roles: Admin Panel -> Agents -> Roles<p></p>
+- Configure Dept: Admin Panel -> Agents -> Departments<p></p>
+- Allow Unregistered: Admin Panel -> Settings -> User Settings -> [unregisted users]<p></p>
 </p>
 <br />
 <p> &emsp; </p>
 <p> &emsp; </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uARAmPf.png" height="80%" width="80%" alt="help-topics"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Configure Agents: Admin Panel -> Agents -> Add New<p></p>
+- Configure Users: Agent Panel -> Users -> Add New<p></p>
+- Configure SLAs: Admin Panel -> Manage -> SLA<p></p>
+- Configure Topics: Admin Panel -> Manage -> Help Topics
 </p>
 <br />
 <p> &emsp; </p>
 <p> &emsp; </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d0Wch9b.png" height="80%" width="80%" alt="ticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
