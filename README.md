@@ -102,6 +102,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - the mySQL section of the page can now be filled out with:<p></p>
 mySQL database: osTicket<p></p>
 mySQL username: root<p></p>
-mySQL password: root
+mySQL password: root<p></p>
+<p> &emsp; </p>
+- <a href="https://github.com/saus23/osTicket/tree/main/config"> Basic configuration.</a>
 </p>
 <br />
