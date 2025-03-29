@@ -43,7 +43,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/FKafBCx.png" height="80%" width="80%" alt="CGI"/>
 </p>
 <p>
-- Create a windows 10 vm in azure.<p></p>
+- Create a Windows 10 VM in Azure and remotely connect to it.<p></p>
+
+> See <a href="https://github.com/saus23/AD-Lab/tree/main"> Azure setup</a> for help creating VM.<p>
+<p> &emsp; </p>
 - Enable IIS & CGI.<p></p>
 
 >start -> control panel -> uninstall a program -> turn windows features on/off -> highlight IIS -> expand www services / app dev features -> highlight CGI<p></p>
