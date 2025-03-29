@@ -30,7 +30,7 @@ This tutorial outlines the staff and admin panels of osTicket.<br />
 <h2>Administration Panels</h2>
 
 <p>
-<img src="https://i.imgur.com/3PLR866.png" height="80%" width="80%" alt="SLAs"/>
+<img src="https://i.imgur.com/k5b9fxp.png" height="80%" width="80%" alt="Depts"/>
 </p>
 <p>
 Login URLs:<p></p>
@@ -60,7 +60,7 @@ Login URLs:<p></p>
 <p> &emsp; </p>
 
 <p>
-<img src="https://i.imgur.com/uARAmPf.png" height="80%" width="80%" alt="help-topics"/>
+<img src="https://i.imgur.com/wpNUvwJ.png" height="80%" width="80%" alt="agents"/>
 </p>
 <p>
 - Configure Agents: Admin Panel -> Agents -> Add Agent<p></p>
