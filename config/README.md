@@ -95,6 +95,7 @@ Login URLs:<p></p>
 
 >Set Sev-A / Help Topic = Networking / Assign to "Online Banking"
 <p> &emsp; </p>
-- Login as Jane. Assign to self and close the ticket.
+- Login as Jane. Assign to self and close the ticket.<p></p>
+- Tickets can also be created by agents for phone call tickets from the Admin Panel.
 </p>
 <br />
