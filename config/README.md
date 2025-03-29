@@ -8,6 +8,11 @@
 This tutorial outlines the staff and admin panels of osTicket.<br />
 <p> &emsp; </p>
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Admin Panel usage](https://youtu.be/-ZBpNrxOoGo)
+<p> &emsp; </p>
+
 
 <h2>Environments and Technologies Used</h2>
 
