@@ -82,7 +82,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/x5Tzfsr.png" height="80%" width="80%" alt="phpManager"/>
 </p>
 <p>
-- Unzip osTicket.zip, move the upload folder to c/inetpub/wwwroot and rename it "osTicket".<p></p>
+- Unzip osTicket.zip, move the "upload" folder to c/inetpub/wwwroot and rename it to "osTicket".<p></p>
 - Rename c/inetpub/wwwroot/osTicket/include/ost-sampleconfig.php to ost-config.php<p></p>
 - Assign permissions to ost-config.php<p></p>
 
