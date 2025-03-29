@@ -32,7 +32,7 @@ This tutorial outlines the staff and admin panels of osTicket.<br />
 - End-user url: http://localhost/osTicket<p></p>
 - Configure Roles: Admin Panel -> Agents -> Roles<p></p>
 - Configure Dept: Admin Panel -> Agents -> Departments<p></p>
-- Allow Unregistered: Admin Panel -> Settings -> User Settings -> [unregisted users]<p></p>
+- Allow Unregistered: Admin Panel -> Settings -> User Settings -> [uncheck registration required]<p></p>
 </p>
 <br />
 <p> &emsp; </p>
